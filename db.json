@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan2",
+      "empresa": "Only Now",
+      "email": "juan@now.com",
+      "telefono": "102013313",
+      "notas": "Nuevo",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@now.com",
+      "empresa": "Only Now"
+    },
+    {
+      "id": "4",
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@now.com",
+      "empresa": "Only Now"
+    },
+    {
+      "id": "5",
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@now.com",
+      "empresa": "Only Now"
+    },
+    {
+      "id": "3dde",
+      "nombre": "Cristóbal",
+      "empresa": "Only Now2",
+      "email": "cris@cris.com",
+      "telefono": "+99999999",
+      "notas": "Cliente requiere de ecomerce"
+    }
+  ]
+}
